@@ -7,3 +7,4 @@ def sum(num1: int):
     print(num1)
 
 sum(1)
+
